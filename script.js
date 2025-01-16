@@ -11,7 +11,7 @@ window.addEventListener('load', function () {
   
   // Typing Animation
   const typedTextSpan = document.querySelector('.typed-text');
-  const texts = ['Frontend Developer', 'Backend Developer', 'Problem Solver'];
+  const texts = ['FRONTEND DEVELOPER', 'BACKEND DEVELOPER', 'PROBLEM SOLVER'];
   let textIndex = 0;
   let charIndex = 0;
   let isDeleting = false;
